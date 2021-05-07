@@ -43,7 +43,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Alper's GitHub Stats" src="https://github-readme-stats.vercel.app/api?alperkpszoglu=anuraghazra&show_icons=true&theme=radical" />
+  <img align="left" alt="Alper's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alperkpszoglu&show_icons=true&theme=radical" />
 
 
 
