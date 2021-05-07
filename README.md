@@ -16,7 +16,7 @@
 </p>
 
 <br/>
-<h2 align="center">Connect with me</h2>
+<p align="center">Connect with me</p>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/alperkapusizoglu/">
