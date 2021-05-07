@@ -2,6 +2,7 @@
 
 <h2 align="center">I'm a web developer and student</h2>
 <br>
+
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="animated" />
 </p>
@@ -21,6 +22,8 @@
 </p>
 
 ---
+<p align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperkpszoglu&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</p>
