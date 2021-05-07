@@ -6,7 +6,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="animated" />
 </p>
-
+<br>
+<p align="center">I like to Gain and Share <strong>Knowledge</strong> <g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji></p>
 <br>
 
 <h3 align="center">Connect with me</h3>
@@ -21,7 +22,7 @@
  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' href="https://www.hackerrank.com/alperkapusizogl1" height='50'>
 </div>
 <hr>
-<h2 align="center">Technologies I am interesting in!</h2>
+<h2 align="center">My interest 👨🏽‍💻</h2>
 
 <br/>
 <div align="center">
