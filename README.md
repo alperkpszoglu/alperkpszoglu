@@ -2,7 +2,7 @@
 #### I'm a Developer and Student
 ![I'm a Developer and Student](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-
+---
 - 📫 How to reach me: alperkapusizoglu@gmail.com 
 
 
