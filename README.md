@@ -16,36 +16,23 @@
 </p>
 
 <br/>
-
-<<<<<<< HEAD
-
-
-
-[<img align="left" alt="Alper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>[linkedin]
-
-
-[<img align="left" alt="Alper | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
-
-[<img align="left" alt="Alper | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"y />[discord]
-
-[<img align="left" alt="Alper | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />[hackerrank]
-
-
-
-
-=======
-<h3 align="center">Connect with me</h3>
+<h2 align="center">Connect with me</h2>
 <br>
 <div align="center">
-  
-[<img align="left" alt="Alper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/alperkapusizoglu/]
-[<img align="left" alt="Alper | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[https://www.instagram.com/alperkpszoglu/]
-[<img align="left" alt="Alper | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[https://discord.gg/TkjQjcsAbF]
-[<img align="left" alt="Alper | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />[https://www.hackerrank.com/alperkapusizogl1]
-   
-  
+  <a href="https://www.linkedin.com/in/alperkapusizoglu/">
+<img alt="Alper | LinkedIn" style="width:50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+</a>
+<a href="https://www.instagram.com/alperkpszoglu/">
+<img alt="Alper | Instagram" style="width:50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+</a>
+<a href="https://discord.gg/TkjQjcsAbF">
+<img alt="Alper | Discord" style="width:50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">
+</a>
+<a href="https://www.hackerrank.com/alperkapusizogl1">
+<img alt="Alper | HackerRank" style="width:50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg">
+</a>
 </div>
->>>>>>> 00006e145cd15e7022aec0e0768a5e8d90b38771
+<br>
 <hr>
 <h2 align="center">My interest 👨🏽‍💻</h2>
 
@@ -81,11 +68,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alperkpszoglu&count_private=true&theme=tokyonight&showicons=true)]()
 
 </div>
-<<<<<<< HEAD
 
-[instagram]: https://www.instagram.com/alperkpszoglu/
-[linkedin]: https://www.linkedin.com/in/alperkapusizoglu/
-[discord]: https://discord.gg/TkjQjcsAbF
-[hackerrank]: https://www.hackerrank.com/alperkapusizogl1
-=======
->>>>>>> 00006e145cd15e7022aec0e0768a5e8d90b38771
+
+
