@@ -21,9 +21,7 @@
  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' href="https://www.hackerrank.com/alperkapusizogl1" height='50'>
 </div>
 
----
-
-<h2></h2>
+<h2 align="center">Technologies I am interesting in!</h2>
 
 <br/>
 <div align="center">
