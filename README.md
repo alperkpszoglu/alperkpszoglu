@@ -20,16 +20,16 @@
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/alperkapusizoglu/">
-<img alt="Alper | LinkedIn" style="width:50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+<img alt="Alper | LinkedIn" width=50px; src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 <a href="https://www.instagram.com/alperkpszoglu/">
-<img alt="Alper | Instagram" style="width:50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+<img alt="Alper | Instagram" width=50px; src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
 <a href="https://discord.gg/TkjQjcsAbF">
-<img alt="Alper | Discord" style="width:50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">
+<img alt="Alper | Discord" width=50px; src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">
 </a>
 <a href="https://www.hackerrank.com/alperkapusizogl1">
-<img alt="Alper | HackerRank" style="width:50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg">
+<img alt="Alper | HackerRank" width=50px; src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg">
 </a>
 </div>
 <br>
