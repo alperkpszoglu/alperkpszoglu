@@ -17,17 +17,21 @@
 
 <br/>
 
-<h3 align="center">Connect with me</h3>
-<br>
-<div align="center">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' href="https://www.linkedin.com/in/alperkapusizoglu/" height='50'> 
-&nbsp;&nbsp;
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' href="https://www.instagram.com/alperkpszoglu/" height='50'>
-&nbsp;&nbsp;
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' href="https://discord.gg/TkjQjcsAbF" height='50'> 
-&nbsp;&nbsp;
- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' href="https://www.hackerrank.com/alperkapusizogl1" height='50'>
-</div>
+
+
+
+[<img align="left" alt="Alper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>[linkedin]
+
+
+[<img align="left" alt="Alper | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
+
+[<img align="left" alt="Alper | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[discord]
+
+[<img align="left" alt="Alper | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />[hackerrank]
+
+
+
+
 <hr>
 <h2 align="center">My interest 👨🏽‍💻</h2>
 
@@ -63,3 +67,8 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alperkpszoglu&count_private=true&theme=tokyonight&showicons=true)]()
 
 </div>
+
+[instagram]: https://www.instagram.com/alperkpszoglu/
+[linkedin]: https://www.linkedin.com/in/alperkapusizoglu/
+[discord]: https://discord.gg/TkjQjcsAbF
+[hackerrank]: https://www.hackerrank.com/alperkapusizogl1
