@@ -7,8 +7,9 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="animated" />
 </p>
 <br>
-<p align="center">I like to Gain and Share <strong>Knowledge</strong> <g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji></p>
-<br>
+<p align="center">I like to Gain and Share <strong>Knowledge</strong> ☁️
+<br/>
+<br/>
 
 <h3 align="center">Connect with me</h3>
 <br>
