@@ -1,14 +1,20 @@
 <h1 align="center">Hi 🤙, I'm Alper</h1>
 
-<p align="center">I'm a web developer and student</p>
-<br>
+<p align="center">
+<samp>I'm a web developer and student</samp>
+</p>
 
+<br>
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="animated" />
 </p>
 <br>
-<p align="center">I like to Gain and Share <strong>Knowledge</strong> ☁️
-<br/>
+
+<p align="center">
+<samp>I like to Gain and Share <strong>Knowledge</strong> ☁️
+</samp>
+</p>
+
 <br/>
 
 <h3 align="center">Connect with me</h3>
