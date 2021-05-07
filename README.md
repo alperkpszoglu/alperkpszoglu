@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤙, I'm Alper</h1>
 
-## align="center">I'm a web developer and student
+<h2> align="center">I'm a web developer and student</h2>
 <br>
 
 <p align="center">
