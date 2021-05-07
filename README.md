@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤙, I'm Alper</h1>
 
-<h2 align="center">I'm a web developer and student</h2>
+<p align="center">I'm a web developer and student</p>
 <br>
 
 <p align="center">
@@ -47,3 +47,5 @@
 </div>
 
 <br/>
+
+<img src="https://camo.githubusercontent.com/c783f55bc729345bf132afad15b5149284b854e7e8d9ac1c8f6c2124053b2c80/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d58756e7a68756f2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e696768742669636f6e5f636f6c6f723d363339324446" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&amp;show_icons=true&amp;theme=tokyonight&amp;icon_color=6392DF" style="max-width:100%;">
