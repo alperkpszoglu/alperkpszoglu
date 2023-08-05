@@ -43,7 +43,7 @@
 
 <br/>
 <div align="center">
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/node.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?&style=for-the-badge&logo=Bootstrap&logoColor=%2#7952B3"/>
 
