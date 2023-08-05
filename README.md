@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤙, I'm Alper</h1>
 
 <p align="center">
-<samp>I'm a web developer and student</samp>
+<samp>I'm Full Stack Developer focusing on .NET & JavaScript | ASP.NET Core | Vue
 </p>
 
 <br>
@@ -25,15 +25,12 @@
 <a href="https://www.instagram.com/alperkpszoglu/">
 <img alt="Alper | Instagram" width=50px; src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
-<a href="https://discord.gg/TkjQjcsAbF">
-<img alt="Alper | Discord" width=50px; src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">
-</a>
 <a href="https://www.hackerrank.com/alperkapusizogl1">
 <img alt="Alper | HackerRank" width=50px; src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg">
 </a>
 </div>
 <br>
-<h2 align="center">My interest 👨🏽‍💻</h2>
+<h2 align="center">My interests 👨🏽‍💻</h2>
 
 <br/>
 <div align="center">
@@ -41,7 +38,7 @@
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.Net-563D7C?&style=for-the-badge&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white">
+<img src="https://img.shields.io/badge/vue.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white">
 </div>
 
 <br/>
