@@ -1,17 +1,7 @@
-<h1 align="center">Hi 🤙, I'm Alper</h1>
-<p align="center">
-Software Engineer — .NET & TypeScript
-</p>
+# Hi 🤙, I'm Alper
 
-<br/>
+Software Engineer - .NET & TypeScript
 
-Find me at LinkedIn: <a href="https://www.linkedin.com/in/alperkapusizoglu/">https://www.linkedin.com/in/alperkapusizoglu/</a>
+Find me at LinkedIn: [https://www.linkedin.com/in/alperkapusizoglu/](https://www.linkedin.com/in/alperkapusizoglu/)
 
-<br/>
-
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=alperkpszoglu&count_private=true&theme=tokyonight&show_icons=true" alt="Alper's GitHub stats" />
-</div>
+![Alper's GitHub stats](https://github-readme-stats.vercel.app/api/?username=alperkpszoglu&show_icons=true&theme=tokyonight)
